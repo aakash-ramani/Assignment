@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+.inner
+{
+  display: flex;
+}
+.flex
+{
+  text-align: left;
+  background-color: white;
+  border-bottom: 5px solid;
+  border-bottom-color: maroon;
+  border-top: 5px solid;
+  border-top-color: maroon;
+  margin-bottom: 5px;
+  width: 100%;
+
+}
+
+.lst
+{
+  margin-left: 50px;
+  font-size: 20px;
+  line-height: 10px;
+  font-family: 'Times New Roman', Times, serif  
+}
+.lstD
+{
+  font-size: 20px;
+  line-height: 10px;
+  font-family: 'Times New Roman', Times, serif  
+}
